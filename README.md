@@ -12,8 +12,8 @@ El proyecto inicia con un fichero plano, donde se realizaron varias transformaci
 - **SQL Server**: Para almacenar los datos procesados.
 - **Power BI**: Para la visualización de datos mediante dashboards interactivos.
 
-- [Flujo de Pentaho](Pentaho imagen.pdf)
-- [Dashboard de Población en España](Población de España dashboard.pdf)
+- [Flujo de Pentaho](Pentaho%20imagen.pdf)
+- [Dashboard de Población en España](Población%20de%20España%20dashboard.pdf)
 
 ## Contacto
 
